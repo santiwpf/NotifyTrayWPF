@@ -1,0 +1,12 @@
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\bin\Debug\Librerias.Controles.WPF.dll
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\bin\Debug\Librerias.Controles.WPF.pdb
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\NotifyTray.baml
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\NotifyTray.g.cs
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\Librerias.Controles.WPF_MarkupCompile.cache
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\Librerias.Controles.WPF.g.resources
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\Librerias.Controles.WPF.Properties.Resources.resources
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\Librerias.Controles.WPF.dll
+C:\Users\WIN7\Desktop\NotifyTrayWPF\Librerias.Controles.WPF\obj\Debug\Librerias.Controles.WPF.pdb

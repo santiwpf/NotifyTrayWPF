@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2FE0BD6C-2EFE-453B-BF4C-19C6EC9CB114/f:NotifyTray.xaml.cs" caret="169" fromTop="6" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml" caret="468" fromTop="8" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml.cs" caret="755" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml" caret="369" fromTop="5" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml.cs" caret="757" fromTop="21" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml.cs" caret="757" fromTop="25" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml.cs" caret="757" fromTop="19" />
+      <File id="210DD8B6-35C9-4609-B148-44AB7FBA7AC3/f:MainWindow.xaml" caret="468" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="0" />
+      <Item value="Librerias" priority="0" />
+      <Item value="Controles" priority="0" />
+      <Item value="WPF" priority="0" />
+      <Item value="NotifyTray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Librerias.Controles.WPF.NotifyTray">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Window">
+      <Item value="WindowStartupLocation" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
